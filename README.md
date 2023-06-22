@@ -24,4 +24,4 @@ is greatly appreciated!
 
 ## License
 
-This project is licensed under the [Unlicense](https://unlicense.org/)
+This project is licensed under the [Unlicense](https://github.com/Syed-Muslim-19/Projects.cpp/blob/main/LICENSE)
